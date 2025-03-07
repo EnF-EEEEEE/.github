@@ -1,12 +1,18 @@
-# DearBirdy ✉️
+# DearBirdy 💌
+인생 선후배의 따뜻한 만남
+
 ## 서비스 정보
-서비스 : 
-URL : https://dearbirdy.xyz
-API : https://api.dearbidy.xyz
 
 
 
-![버디_가족사진](https://github.com/user-attachments/assets/143b28f7-6e6e-47ea-af61-f765e444c98f)
+
+- URL: https://dearbirdy.xyz
+- API: https://api.dearbidy.xyz
+
+![버디_가족사진 (1)](https://github.com/user-attachments/assets/479402f7-7210-4ca9-af79-e5d3aaed0358)
+
+
+
 
 <!--
 
