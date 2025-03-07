@@ -1,4 +1,10 @@
 # DearBirdy ✉️
+서비스 : 
+URL : https://dearbirdy.xyz
+API : https://api.dearbidy.xyz
+
+
+
 ![버디_가족사진](https://github.com/user-attachments/assets/143b28f7-6e6e-47ea-af61-f765e444c98f)
 
 <!--
