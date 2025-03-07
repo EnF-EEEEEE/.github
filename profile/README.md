@@ -1,4 +1,5 @@
 # DearBirdy ✉️
+## 서비스 정보
 서비스 : 
 URL : https://dearbirdy.xyz
 API : https://api.dearbidy.xyz
