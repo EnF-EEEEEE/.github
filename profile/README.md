@@ -5,7 +5,7 @@
 - URL: https://dearbirdy.xyz
 - API: https://api.dearbidy.xyz
 
-![버디_가족사진 (1)](https://github.com/user-attachments/assets/479402f7-7210-4ca9-af79-e5d3aaed0358)
+> ![버디_가족사진 (1)](https://github.com/user-attachments/assets/479402f7-7210-4ca9-af79-e5d3aaed0358)
 
 ## 🛠 기능 엿보기
 
