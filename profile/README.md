@@ -11,7 +11,6 @@
 - PM : 황수진
 - Design : 육현진
 - Design : 배세희
-- FE : 이상재
 - FE : 곽민성
 - BE : 이가온
 - BE : 방호배
