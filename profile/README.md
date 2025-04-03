@@ -12,6 +12,7 @@
 - Design : 육현진
 - Design : 배세희
 - FE : 곽민성
+- FE : Kat
 - BE : 이가온
 - BE : 방호배
 
